@@ -1,6 +1,6 @@
 #!/bin/bash
 
-go get -u github.com/jteeuwen/go-bindata/...
+go get -u github.com/kevinburke/go-bindata/...
 
 go-bindata data/
 
